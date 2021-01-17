@@ -3,6 +3,8 @@ Mass article discourse structure tagger developed for Wharton, based on work and
 
 # Installation
 
+Built on Python3.
+
 Run:
 ```
 pip3 install torch  
