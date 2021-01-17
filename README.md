@@ -21,9 +21,9 @@ nltk.download('punkt')
 
 Article texts go in tester.csv. Then, run generate_tags.py.
 
-# Tags
+## What do the tags refer to?
 
-## Main Contents
+#### Main Contents
 
 Main Event (M1) introduces the most important event and relates to the major subjects in a
 news report. It follows strict constraints of being the most recent and relevant event, and directly
@@ -34,7 +34,7 @@ Consequence (M2) informs about the events that are triggered by the main news ev
 are either temporally overlapped with the main event or happens immediately after the main
 event.
 
-## Context-informing Contents
+#### Context-informing Contents
 Context-informing sentences provide information related to the actual situation in which main
 event occurred. It includes the previous events and other contextual facts that directly explain
 the circumstances that led to the main event.
@@ -48,7 +48,7 @@ are mainly used to activate the situation model of current events and states tha
 understand the main event in the current social or political construct. They have temporal
 co-occurrence with the main event or describe the ongoing situation.
 
-## Additional Supportive Contents
+#### Additional Supportive Contents
 
 Finally, sentences containing the least relevant information, comprising of unverifiable or
 hypothetical facts, opinionated statements, future projections and historical backgrounds, are
@@ -72,6 +72,6 @@ Expectation (D4) speculates on the possible consequences of the main or contextu
 They are essentially opinions, but with far stronger implications where the author tries to
 evaluate the current situation by projecting possible future events.
 
-## Misc
+#### Misc
 NA -- Sentences that do not contribute to the discourse structure such as photo captions, text links for
 images, etc.
