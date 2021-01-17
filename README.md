@@ -1,8 +1,6 @@
 # Discourse-Structure-Classifier
 Mass article discourse structure tagger developed for Wharton, based on work and code from https://www.aclweb.org/anthology/2020.acl-main.478.pdf
 
-From: https://www.aclweb.org/anthology/2020.acl-main.478.pdf
-
 # Main Contents
 
 Main Event (M1) introduces the most important event and relates to the major subjects in a
