@@ -154,7 +154,7 @@ if __name__ == '__main__':
 
         df_classifier(df, id, classsifList)
 
-        df.to_csv('startribune_paragraph_mod.csv')
+        df.to_csv('output.csv')
 
         #print(df)
         #print(id)
