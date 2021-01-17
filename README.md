@@ -5,14 +5,14 @@ Mass article discourse structure tagger developed for Wharton, based on work and
 
 Run in Terminal:
 
-pip3 install torch
-pip3 install allennlp
-pip3 install nltk
-pip3 install pandas
+pip3 install torch  
+pip3 install allennlp  
+pip3 install nltk  
+pip3 install pandas  
 
-Then, inside Python:
+Then, inside Python:  
 
-import nltk
+import nltk 
 nltk.download('punkt')
 
 # Usage
