@@ -3,18 +3,18 @@ Mass article discourse structure tagger developed for Wharton, based on work and
 
 # Installation
 
-Run in Terminal:
-`
+Run:
+```
 pip3 install torch  
 pip3 install allennlp  
 pip3 install nltk  
 pip3 install pandas  
-`
-Then, inside Python:  
-`
+```
+Then, inside Python, run:  
+```
 import nltk 
 nltk.download('punkt')
-`
+```
 # Usage
 
 Article texts go in tester.csv. Then, run generate_tags.py.
