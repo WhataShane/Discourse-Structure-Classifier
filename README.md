@@ -1,5 +1,5 @@
 # Discourse-Structure-Classifier
-Mass article discourse structure tagger developed for Wharton, based on https://www.aclweb.org/anthology/2020.acl-main.478.pdf
+Mass article discourse structure tagger developed for Wharton, based on work and code from https://www.aclweb.org/anthology/2020.acl-main.478.pdf
 
 From: https://www.aclweb.org/anthology/2020.acl-main.478.pdf
 
