@@ -3,7 +3,7 @@ Mass article discourse structure tagger developed for Wharton School of the Univ
 
 # Installation
 
-Built on Python3.
+Built in Python3.
 
 Run:
 ```
